@@ -19,7 +19,9 @@ innovative approach is implemented using a
 well-established deep feature extraction technique,
 presenting the raw data through statistical features and
 making the recognition customized to gender through a
-gender feature. The proposed architecture with the new
+gender feature.
+
+The proposed architecture with the new
 approach is SER-FusionNet, representing the fusion of
 announced feature perceptions. SER-FusionNet consists
 of two crucial deep learning modules: the 1-D
